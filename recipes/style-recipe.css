@@ -1,0 +1,31 @@
+body{
+    font-family: monospace;
+    background-color: #e8e6e7;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.description{
+    text-align: center;
+}
+
+.ingredients{
+    float: left;
+}
+
+.steps{
+    float: right;
+}
+
+a{
+    text-align: end;
+}
